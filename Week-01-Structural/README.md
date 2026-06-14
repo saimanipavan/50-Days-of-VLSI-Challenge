@@ -142,3 +142,9 @@ The **4-Bit Arithmetic Logic Unit (ALU)** integrates the combinational circuits 
 **Week 1 – 50 Days VLSI Challenge**
 
 *"Building strong digital design fundamentals, one module at a time."*
+
+---
+
+## Author
+
+**Vedula Sai Mani Pavan**
