@@ -198,4 +198,4 @@ After completing this project, you will understand:
 
 ---
 
-**Day 15 – Week 3 – 50 Days VLSI Challenge**
+**Day 16 – Week 3 – 50 Days VLSI Challenge**
